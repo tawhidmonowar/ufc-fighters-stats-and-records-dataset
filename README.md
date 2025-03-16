@@ -8,10 +8,10 @@ The ```dataset/ufc_fighters_stats_and_records.json``` file contains structured d
 - **Record**: Win-loss-draw record summarizing the fighter’s career performance.
 - **Fight History**: A chronological log of past fights, including opponents, results, and fight details.
 
-This dataset is useful for analyzing fighter trends, performance comparisons, and predictive modeling in mixed martial arts.
+This dataset is useful for analyzing fighter trends, performance comparisons, and predictive modeling in mixed martial arts. 
 
 ## Dataset Analysis
-Exploring the UFC Fighters' Stats & Records Dataset, uncovering key patterns, trends, and insights into fighter performance across various metrics.
+Exploring the UFC Fighters' Stats & Records Dataset, uncovering key patterns, trends, and insights into fighter performance across various metrics. [See Jupyter Notebook](https://github.com/tawhidmonowar/ufc-fighters-stats-and-records-dataset/blob/main/UFC_Fighters'_Stats_%26_Records_Dataset_Analysis.ipynb)
 | ![Stats](https://github.com/tawhidmonowar/ufc-fighters-stats-and-records-dataset/blob/main/readme/f_status.jpg) | ![division_distribution](https://github.com/tawhidmonowar/ufc-fighters-stats-and-records-dataset/blob/main/readme/f_division_distribution.jpg) |
 |:-------------------:|:------------------------:|
 
